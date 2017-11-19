@@ -1,11 +1,9 @@
-=======
 VirtaCoin Core integration/staging tree
 =====================================
 
 http://www.virtacoin.com
 
-Copyright (c) 2009-2014 Bitcoin Core Developers
-Copyright (c) 2014 VirtaCoin Core Developers
+Copyright (c) 2009-2017 Virtacoin Core Developers
 
 What is VirtaCoin?
 ----------------
