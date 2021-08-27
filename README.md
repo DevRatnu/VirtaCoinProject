@@ -30,11 +30,11 @@ Technical Specifications
  
 Links
 ------------------------
-Website: http://www.virtacoin.com
+Website: http://www.virtacoin.com <br>
          https://virtacoin.online
 
-Explorer: http://virtacoinexplorer.org
-          https://chainz.cryptoid.info/vta
+Explorer: http://virtachain.info
+         
 
 License
 -------
