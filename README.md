@@ -30,7 +30,7 @@ Technical Specifications
  
 Links
 ------------------------
-Website: http://www.virtacoin.com
+Website: http://www.virtacoin.org
 
 License
 -------
